@@ -23,9 +23,10 @@ Details the calculation of radiative equilibrium considering different temperatu
 Explores the impact of metallicity on the opacity of the gas and how it influences various chemical processes.
 Correction to Puffed Rim
 
-## Discusses the relationship between dust surface density, gas density, and the formation of an optically thick rim.
-## References
+### Discusses 
+The relationship between dust surface density, gas density, and the formation of an optically thick rim.
+### References
 Provides citations for the sources and studies mentioned in the document.
-## How to Use
+### How to Use
 This document serves as a comprehensive resource for understanding the structural effects of metallicity on circumstellar discs. Each section provides detailed information on specific aspects of the topic. It is recommended to read through the document sequentially for a thorough grasp of the subject matter.
 
